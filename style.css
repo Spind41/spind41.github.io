@@ -10,7 +10,7 @@ body  {
 }
 
     .main a:hover {
-        color: aqua;
+        color: pink;
     }
 
     #logo-name {
@@ -44,6 +44,7 @@ body  {
         margin: auto;
         font-size: 20px;
         margin-bottom: 100px;
+        color: aqua;
     }
 
     .foto img {
